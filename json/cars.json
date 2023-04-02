@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "63e4ba419c47b00e55da8d57"
+  },
+  "id": 1,
+  "car": "Mitsubishi",
+  "car_color": "Yellow",
+  "car_model_year": 2002
+},{
+  "_id": {
+    "$oid": "63e4ba419c47b00e55da8d58"
+  },
+  "id": 2,
+  "car": "Volkswagen",
+  "car_color": "Maroon",
+  "car_model_year": 2008
+},{
+  "_id": {
+    "$oid": "63e4ba419c47b00e55da8d59"
+  },
+  "id": 3,
+  "car": "Saturn",
+  "car_color": "Red",
+  "car_model_year": 2003
+},{
+  "_id": {
+    "$oid": "63e4ba419c47b00e55da8d5a"
+  },
+  "id": 4,
+  "car": "Jeep",
+  "car_color": "Violet",
+  "car_model_year": 2012
+},{
+  "_id": {
+    "$oid": "63e4ba419c47b00e55da8d5b"
+  },
+  "id": 5,
+  "car": "Mitsubishi",
+  "car_color": "Purple",
+  "car_model_year": 2002
+},{
+  "_id": {
+    "$oid": "63e4ba419c47b00e55da8d5c"
+  },
+  "id": 6,
+  "car": "Chevrolet",
+  "car_color": "Indigo",
+  "car_model_year": 2009
+},{
+  "_id": {
+    "$oid": "63e4ba419c47b00e55da8d5d"
+  },
+  "id": 7,
+  "car": "Dodge",
+  "car_color": "Yellow",
+  "car_model_year": 1994
+},{
+  "_id": {
+    "$oid": "63e4ba419c47b00e55da8d5e"
+  },
+  "id": 8,
+  "car": "Isuzu",
+  "car_color": "Teal",
+  "car_model_year": 2004
+},{
+  "_id": {
+    "$oid": "63e4ba419c47b00e55da8d5f"
+  },
+  "id": 9,
+  "car": "BMW",
+  "car_color": "Purple",
+  "car_model_year": 2008
+},{
+  "_id": {
+    "$oid": "63e4ba419c47b00e55da8d60"
+  },
+  "id": 10,
+  "car": "Mitsubishi",
+  "car_color": "Purple",
+  "car_model_year": 1994
+},{
+  "_id": {
+    "$oid": "63e4ba419c47b00e55da8d61"
+  },
+  "id": 11,
+  "car": "Mazda",
+  "car_color": "Red",
+  "car_model_year": 2010
+},{
+  "_id": {
+    "$oid": "63e4ba419c47b00e55da8d62"
+  },
+  "id": 12,
+  "car": "Audi",
+  "car_color": "Pink",
+  "car_model_year": 2012
+},{
+  "_id": {
+    "$oid": "63e4ba419c47b00e55da8d63"
+  },
+  "id": 13,
+  "car": "Mercedes-Benz",
+  "car_color": "Aquamarine",
+  "car_model_year": 1989
+},{
+  "_id": {
+    "$oid": "63e4ba419c47b00e55da8d64"
+  },
+  "id": 14,
+  "car": "Volvo",
+  "car_color": "Red",
+  "car_model_year": 2012
+},{
+  "_id": {
+    "$oid": "63e4ba419c47b00e55da8d65"
+  },
+  "id": 15,
+  "car": "GMC",
+  "car_color": "Green",
+  "car_model_year": 2006
+},{
+  "_id": {
+    "$oid": "63e4ba419c47b00e55da8d66"
+  },
+  "id": 16,
+  "car": "GMC",
+  "car_color": "Teal",
+  "car_model_year": 1996
+},{
+  "_id": {
+    "$oid": "63e4ba419c47b00e55da8d67"
+  },
+  "id": 17,
+  "car": "Cadillac",
+  "car_color": "Pink",
+  "car_model_year": 2003
+},{
+  "_id": {
+    "$oid": "63e4ba419c47b00e55da8d68"
+  },
+  "id": 18,
+  "car": "BMW",
+  "car_color": "Mauv",
+  "car_model_year": 2012
+},{
+  "_id": {
+    "$oid": "63e4ba419c47b00e55da8d69"
+  },
+  "id": 19,
+  "car": "Dodge",
+  "car_color": "Turquoise",
+  "car_model_year": 1999
+},{
+  "_id": {
+    "$oid": "63e4ba419c47b00e55da8d6a"
+  },
+  "id": 20,
+  "car": "Ford",
+  "car_color": "Mauv",
+  "car_model_year": 2002
+}]
